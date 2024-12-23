@@ -1,4 +1,4 @@
-## Hi there 👋
+## 나는꼬두람이 👋
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duram21)](https://solved.ac/duram21)
 <!--
