@@ -2,7 +2,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=duram21)](https://solved.ac/duram21)
 
-[![CodeForces Profile](https://cf.leed.at?id={duram21})](https://codeforces.com/profile/{duram21})
+[![CodeForces Profile](https://cf.leed.at?id=duram21)](https://codeforces.com/profile/duram21)
 
 <!--
 **duram21/duram21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
